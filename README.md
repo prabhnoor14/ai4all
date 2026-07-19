@@ -70,9 +70,4 @@ python training/phase2_har70_kmeans.py   # k-means clustering -> outputs/har70_k
 - Decision Trees -- interpretable rules for caregiving context (cStick, SisFall)
 - k-Means Clustering -- unsupervised pattern discovery (HAR70+)
 
-## Citations
 
-- Ustad, A., et al. (2023). Validation of an Activity Type Recognition Model Classifying Daily Physical Behavior in Older Adults: The HAR70+ Model. *Sensors*, 23(5), 2368. https://doi.org/10.3390/s23052368
-- Sucerquia, A., López, J. D., & Vargas-Bonilla, J. F. (2017). SisFall: A Fall and Movement Dataset. *Sensors*, 17(1), 198. https://doi.org/10.3390/s17010198
-- Zurbuchen, N., Wilde, A., & Bruegger, P. (2021). A Machine Learning Multi-Class Approach for Fall Detection Systems Based on Wearable Sensors with a Study on Sampling Rates Selection. *Sensors*, 21(3), 938. https://doi.org/10.3390/s21030938
-- Alaraj, R., & Alshammari, R. (2020). Utilizing Machine Learning to Recognize Human Activities for Elderly and Homecare. *Acta Informatica Medica*, 28(3), 196. https://doi.org/10.5455/aim.2020.28.196-201
