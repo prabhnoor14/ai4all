@@ -1,0 +1,20 @@
+# Virtual environment (regenerate with: python -m venv .venv && pip install -r requirements.txt)
+.venv/
+
+# Raw datasets -- too large for GitHub and not ours to redistribute.
+# See README.md "Getting the data" for download links.
+# (cStick.csv is tiny and kept; derived/processed CSVs below are also kept.)
+data/har70plus/
+data/SisFall_dataset/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / OneDrive junk
+desktop.ini
+Thumbs.db
+.DS_Store
